@@ -53,7 +53,7 @@ NODE_ENV="local"
 ## Database connection
 default database info (mongodb)
 
-db name - demo
+db name - Calorie_Tracker
 
 db port - 27017 (default mongodb port)
 
