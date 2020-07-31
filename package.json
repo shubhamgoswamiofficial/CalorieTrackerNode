@@ -1,7 +1,7 @@
 {
-    "name": "live_corona",
+    "name": "calorie_tracker",
     "version": "1.0.1",
-    "main": "live_corona",
+    "main": "calorie_tracker",
     "private": true,
     "scripts": {
         "start": "nodemon server.js"
