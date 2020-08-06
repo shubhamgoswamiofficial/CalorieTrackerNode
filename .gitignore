@@ -3,7 +3,7 @@
 package-lock.json
 npm-debug.log*
 /nbproject/
-/.env
+# /.env
 /env.dev
 /lib/config/env/remoteserver.js
 /lib/config/env/localhost.js
